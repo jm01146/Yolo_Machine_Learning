@@ -1,0 +1,8 @@
+
+path: C:\Users\johnm\PycharmProjects\pythonProject\data
+train: images\train
+val: images\train
+
+names:
+  0: Printing
+  1: Not Printing
